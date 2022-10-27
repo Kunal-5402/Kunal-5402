@@ -14,7 +14,7 @@
 <h3 align="left">Connect With Me:</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-kumar-15447120b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kunal-kumar-15447120b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/kunal_5402/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <a href="https://auth.geeksforgeeks.org/user/kunalkumry9e/practice"><img src="https://img.shields.io/badge/GeeksforGeeks-ffffff?style=for-the-badge&logo=GeeksforGeeks&logoColor=black"></a>
 
