@@ -48,7 +48,7 @@
 <hr>
 <h3>📈GitHub Activity Graph</h3>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal-5402&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-5402&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunal-5402&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-5402" /> </p>
