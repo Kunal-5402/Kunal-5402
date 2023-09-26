@@ -46,9 +46,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal-5402&theme=merko&show_icons=true&locale=en" alt="kunal-5402" widht="350" height="180"/></p> 
 
 <hr>
-<h3>📈GitHub Activity Graph</h3>
+<!-- <h3>📈GitHub Activity Graph</h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunal-5402)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kunal-5402&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-5402&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kunal-5402&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<hr>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunal-5402&label=Profile%20views&color=0e75b6&style=flat" alt="kunal-5402" /> </p>
