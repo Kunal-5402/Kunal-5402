@@ -56,11 +56,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-5402&theme=merko" height="180"/>
 </div>
 
-### GitHub Activity Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kunal-5402&theme=merko" alt="GitHub Activity Graph" />
-</p>
-
 ---
 
 <p align="center">
